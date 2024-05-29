@@ -39,11 +39,9 @@
          <mdui:UIInfo>
             <mdui:DisplayName xml:lang="en">INT portal - CLARIN services</mdui:DisplayName>
             <mdui:DisplayName xml:lang="de">INT Portal - CLARIN Dienste</mdui:DisplayName>
-            <mdui:DisplayName xml:lang="fi">INT portaali - CLARIN palvelut</mdui:DisplayName>
             <mdui:DisplayName xml:lang="nl">INT portaal - CLARIN diensten</mdui:DisplayName>
-            <mdui:Description xml:lang="en">Institute for Dutch Language (INT) projects attached to the CLARIN infrastructure.</mdui:Description>
-            <mdui:Description xml:lang="de">Institut für Niederländische Sprache (INT) Projekte im Rahmen der CLARIN-Infrastruktur.</mdui:Description>
-            <mdui:Description xml:lang="fi">Institute for Dutch Language (INT) -hankkeita kiinnitetty CLARIN infrastruktuurin.</mdui:Description>
+            <mdui:Description xml:lang="en">Institute for Dutch Language (INT) projects attached to the CLARIN infrastructure</mdui:Description>
+            <mdui:Description xml:lang="de">Institut für Niederländische Sprache (INT) Projekte im Rahmen der CLARIN-Infrastruktur</mdui:Description>
             <mdui:Description xml:lang="nl">Instituut voor de Nederlandse taal (INT) diensten en projecten verbonden aan het CLARIN project</mdui:Description>
             <mdui:InformationURL xml:lang="nl">http://ivdnt.org/onderzoek-a-onderwijs/projecten/clarin</mdui:InformationURL>
             <mdui:InformationURL xml:lang="en">http://portal.clarin.ivdnt.org/</mdui:InformationURL>
